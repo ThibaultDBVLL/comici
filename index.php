@@ -7,10 +7,7 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-	<div id="containertotal">
 			<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-				<div class="container">
-
 					<div class="navbar-header">
 						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 							<span class="sr-only">Toggle navigation</span>
@@ -36,7 +33,7 @@
 							<li class="dropdown-toggle"><a href="#titre-initiatives">Initiatives locales</a></li>
 							<li class="dropdown-toggle"><a href="#titre-patrimoine">Patrimoine</a></li>
 
-							<li class="dropdown open">
+							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Login</b> <span class="caret"></span></a>
 								<ul id="login-dp" class="dropdown-menu">
 									<li>
@@ -83,7 +80,6 @@
 							</form>
 						</ul>
 					</div>
-				</div>
 			</div>
 
 			<div id="carousel" class="carousel slide background" data-ride="carousel">
@@ -129,7 +125,6 @@
 						<a class="right carousel-control" href="#carousel" data-slide="next">
 							<span class="icon-next"></span>
 						</a>
-					</div>
 
 	</div>
 
