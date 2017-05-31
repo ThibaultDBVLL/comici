@@ -245,12 +245,9 @@ legend {
 	padding-right: 15%;
 }
 
-#carte{
-	padding-top: -10%;
-	backgrown: yellow;
-}
-
-#culture{
-	padding-top: -10%;
-	backgrown: yellow;
+#titre-carte,
+#titre-culture,
+#titre-initiatives,
+#titre-patrimoine{
+	padding-top: 10%;
 }
