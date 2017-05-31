@@ -13,25 +13,18 @@ body {
 #containertotal{
 	max-width: 1300px;
 }
-#contenutotal{
-	margin-bottom:20px;
-}
+
 h1{
 	text-align: center;
 	color:#F9B200;
 }
-#mentions{
-	text-align: center;
-}
+
 #logo {
 	height:100px;
 	margin-top:-10px;
 	position:fixed;
 	top:5px;
 	left:0px;
-}
-/*Debut Navbar*/
-.collapse{
 }
 
 .navbar{
@@ -89,19 +82,6 @@ p {
 	max-height:100%;
 
 }
-#news{
-	margin-top:30px;
-	color:black;
-}
-.mb-1{
-	color:black;
-}
-/*css formulaire*/
-
-.formulaire {
-	text-align: center;
-	color: #F9B200;
-}
 
 
 form {
@@ -111,9 +91,6 @@ form {
 	padding: 1em;
 	border: 1px solid #CCC;
 	border-radius: 1em;
-}
-form div + div {
-	margin-top: 1em;
 }
 
 label {
@@ -131,77 +108,11 @@ h3{
 
 }
 
-/**************page MFR***************/
 
-.text{
-	color: white;
-	font-size: 16px;
 
-}
-.MFR{
-	color: #F9B200;
 
-}
-.Alternance{
-	color:#5CB85C;
-	text-align:center;
-}
-.Presentation{
-	text-align: center;
-	color:#F9B200;
-}
-.spécialité{
-	color:#F9B200;
-}
 
-.glyphicon.glyphicon-hand-right{
-	color: #F9B200;
-}
-.chapeau{
-	margin-top: 45px;
-}
-.chapeau img {
-	box-sizing: border-box;
-	display: inline-block;
-	margin: 0;
-	vertical-align: top;
-	width: 40%;
-	padding-left: 40px;
-}
-.chapeau p{
-	box-sizing: border-box;
-	display: inline-block;
-	vertical-align: top;
-	width: 59%;
-	margin: 0;
-	padding-left: 20px;
-	/*margin-top: 0;
-	margin-bottom: 0;*/
-}
-.decalage1{
-	margin-left: 4em;
-	margin-top: 1.2em;
-	display: list-item;
-	list-style: none;
-}
-.glyphicon.glyphicon-circle-arrow-right{
-	color: #5CB85C;
-}
 
-/********************************************/
-
-.formation{
-	color : white;
-	width : 100%;
-}
-
-.titre-formation{
-	color : #F9B200;
-}
-/*lesly*/
-.page-header{
-	color:#F9B200;
-}
 .controls{
 	color: white;
 	text-align: left;
@@ -246,22 +157,10 @@ legend {
 	margin-left: -40px;
 }
 
-/*Fin Modal*/
 
-.telechargement{
-	color:white;
-	text-decoration: underline;
-}
-.titre2 {
-	font-style: italic;
-	text-align: center;
-
-}
 .titre3 {
 	color: white;
 }
-
-/*Debut Footer*/
 
 
 .blabla{
@@ -344,4 +243,14 @@ legend {
 .content{
 	padding-left: 15%;
 	padding-right: 15%;
+}
+
+#carte{
+	padding-top: -10%;
+	backgrown: yellow;
+}
+
+#culture{
+	padding-top: -10%;
+	backgrown: yellow;
 }
