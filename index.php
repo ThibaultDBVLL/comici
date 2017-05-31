@@ -39,12 +39,6 @@
 							<li class="dropdown-toggle"><a href="galerie.html">Initiatives locales</a></li>
 							<li class="dropdown-toggle"><a href="contact.html">Patrimoine</a></li>
 
-							<form class="navbar-form navbar-left">
-								<div class="form-group">
-									<input type="text" class="form-control" placeholder="Search">
-								</div>
-								<button type="submit" class="btn btn-default">Submit</button>
-							</form>
 							<li class="dropdown open">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Login</b> <span class="caret"></span></a>
 								<ul id="login-dp" class="dropdown-menu">
@@ -84,6 +78,12 @@
 									</li>
 								</ul>
 							</li>
+							<form class="navbar-form navbar-left">
+								<div class="form-group">
+									<input type="text" class="form-control" placeholder="Search">
+								</div>
+								<button type="submit" class="btn btn-default">Submit</button>
+							</form>
 						</ul>
 					</div>
 				</div>
