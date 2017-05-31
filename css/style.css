@@ -1,0 +1,364 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+body {
+	padding-top: 70px;
+	background-image:url(../images/);
+	background-repeat: no-repeat;
+	display:flex;
+	flex-direction: column;
+	justify-content:center;
+	font-family: 'Ubuntu', sans-serif;
+	align-items:center;
+}
+footer{
+	background-color: rgb(155, 132, 157);
+	text-align : center;
+	display:flex;
+	justify-content: center;
+	margin-left:0 !important;
+	margin-right:0px !important;
+	max-width:1300px;
+}
+#containertotal{
+	max-width: 1300px;
+}
+#contenutotal{
+	margin-bottom:20px;
+}
+h1{
+	text-align: center;
+	color:#F9B200;
+}
+#mentions{
+	text-align: center;
+}
+#logo {
+	height:100px;
+	margin-top:-10px;
+	position:fixed;
+	top:5px;
+	left:0px;
+}
+/*Debut Navbar*/
+.collapse{
+}
+
+.navbar{
+	display : flex;
+	flex-wrap: no-wrap;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #F9B200;
+	font-weight: bold;
+}
+
+.titre {
+	color:#F9B200;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	text-decoration-style: bold;
+}
+.topo{
+	margin-left: auto;
+	padding:1%
+}
+#hautDePage {
+	height: 100px;
+	background-color: grey
+}
+
+/*Debut Bouton "Retour en haut de page*/
+#btn_up {
+	display: none;
+	position:fixed;
+	z-index:5;
+	bottom:10px;
+	right: 10px;
+	z-index: 5;
+}
+/*Fin Bouton "Retour en haut de page"*/
+p {
+	margin: 5%;
+	font-size: 17px;
+	color: black;
+	color: green;
+	margin: 5%;
+	font-size: 22px;
+}
+/*Lesle*/
+#conteneur{
+	padding: 50px;
+}
+
+
+.img-responsive{
+	margin:0px auto;
+	max-height:100%;
+
+}
+#news{
+	margin-top:30px;
+	color:black;
+}
+.mb-1{
+	color:black;
+}
+/*css formulaire*/
+
+.formulaire {
+	text-align: center;
+	color: #F9B200;
+}
+
+
+form {
+	margin: 0 auto;
+	width: 450px;
+	color: blue;
+	padding: 1em;
+	border: 1px solid #CCC;
+	border-radius: 1em;
+}
+form div + div {
+	margin-top: 1em;
+}
+
+label {
+	/* To make sure that all labels have the same size and are properly aligned*/
+	display: inline-block;
+	width: 150px;
+	text-align: right;
+}
+
+h3{
+	color:#F9B200 !important;
+}
+
+.panel-body{
+
+}
+
+/**************page MFR***************/
+
+.text{
+	color: white;
+	font-size: 16px;
+
+}
+.MFR{
+	color: #F9B200;
+
+}
+.Alternance{
+	color:#5CB85C;
+	text-align:center;
+}
+.Presentation{
+	text-align: center;
+	color:#F9B200;
+}
+.spécialité{
+	color:#F9B200;
+}
+
+.glyphicon.glyphicon-hand-right{
+	color: #F9B200;
+}
+.chapeau{
+	margin-top: 45px;
+}
+.chapeau img {
+	box-sizing: border-box;
+	display: inline-block;
+	margin: 0;
+	vertical-align: top;
+	width: 40%;
+	padding-left: 40px;
+}
+.chapeau p{
+	box-sizing: border-box;
+	display: inline-block;
+	vertical-align: top;
+	width: 59%;
+	margin: 0;
+	padding-left: 20px;
+	/*margin-top: 0;
+	margin-bottom: 0;*/
+}
+.decalage1{
+	margin-left: 4em;
+	margin-top: 1.2em;
+	display: list-item;
+	list-style: none;
+}
+.glyphicon.glyphicon-circle-arrow-right{
+	color: #5CB85C;
+}
+
+/********************************************/
+
+.formation{
+	color : white;
+	width : 100%;
+}
+
+.titre-formation{
+	color : #F9B200;
+}
+/*lesly*/
+.page-header{
+	color:#F9B200;
+}
+.controls{
+	color: white;
+	text-align: left;
+}
+
+legend {
+	color: #F9B200;
+}
+.boite{
+	color: black;
+
+}
+
+#submitbutton{
+	position:relative;
+	top:-27px;
+}
+/*Debut Modal*/
+#myModal{
+	position:relative;
+	top:-1300px;
+	left:475px;
+	width:400px;
+	height:260px;
+	background-color:white;
+	border-radius: 20px;
+}
+#modalP{
+	color:black;
+
+}
+
+.emptyspace{
+	height: 15px;
+}
+
+#formationDEA{
+	padding-left: 5%;
+}
+
+.divDEA{
+	margin-left: -40px;
+}
+
+/*Fin Modal*/
+
+.telechargement{
+	color:white;
+	text-decoration: underline;
+}
+.titre2 {
+	font-style: italic;
+	text-align: center;
+
+}
+.titre3 {
+	color: white;
+}
+
+/*Debut Footer*/
+
+footer{
+	background-color: ;
+	text-align : center;
+	display:flex;
+	justify-content: center;
+	margin-left:0 !important;
+	margin-right:0 !important;
+	width:100%;
+}
+
+.blabla{
+	position:relative;
+	left:150px;
+	top:20px;
+
+}
+.footerlink{
+	color:black;
+}
+/*Fin Footer*/
+
+/*Connexion*/
+#formulaireconnexion{
+	width:100%;
+}
+#remember{
+	color:black;
+}
+#check{
+	display:flex;
+	justify-content: center;
+}
+.parcours-prepa, #listformation{
+	color:white;
+}
+
+#listformation ul li
+{
+	list-style-type: none;
+}
+/*Fin Connexion*/
+
+
+#contenucontact{
+	display:flex;
+}
+
+#infocontact{
+	margin-left:30px;
+}
+.actualites{
+	color:white;
+}
+
+.search{
+	width: 10 px;
+}
+
+#aside{
+	display : flex;
+	align-content: flex-end;
+}
+
+.sous-footer{
+	background-color: rgb(155, 132, 157);
+}
+
+.content{
+	color: blue;
+}
+
+.empty1{
+	height : 100px;
+}
+.empty2{
+	height : 150px;
+}
+
+#logo{
+	position: absolute;
+	z-index:2;
+	margin-left: 47%;
+	margin-top: -50%;
+}
+
+.active {
+	background-color: transparent !important;
+}
+.item {
+	outline: 0 !important;
+}
