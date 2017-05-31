@@ -9,15 +9,7 @@ body {
 	font-family: 'Ubuntu', sans-serif;
 	align-items:center;
 }
-footer{
-	background-color: rgb(155, 132, 157);
-	text-align : center;
-	display:flex;
-	justify-content: center;
-	margin-left:0 !important;
-	margin-right:0px !important;
-	max-width:1300px;
-}
+
 #containertotal{
 	max-width: 1300px;
 }
@@ -271,15 +263,6 @@ legend {
 
 /*Debut Footer*/
 
-footer{
-	background-color: ;
-	text-align : center;
-	display:flex;
-	justify-content: center;
-	margin-left:0 !important;
-	margin-right:0 !important;
-	width:100%;
-}
 
 .blabla{
 	position:relative;
@@ -338,16 +321,11 @@ footer{
 	background-color: rgb(155, 132, 157);
 }
 
-.content{
-	color: blue;
+
+.empty{
+	height : 50px;
 }
 
-.empty1{
-	height : 100px;
-}
-.empty2{
-	height : 150px;
-}
 
 #logo{
 	position: absolute;
@@ -361,4 +339,9 @@ footer{
 }
 .item {
 	outline: 0 !important;
+}
+
+.content{
+	padding-left: 15%;
+	padding-right: 15%;
 }

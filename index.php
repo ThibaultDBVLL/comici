@@ -134,6 +134,9 @@
 						</a>
 					</div>
 	</div>
+	<div class="empty">
+
+	</div>
 
 	<div class="content">
 		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -188,18 +191,6 @@
 		</button>
 	</section>
 </div>
-<!-- fin code gena -->
-<!-- code Thibault -->
-<footer class="row">
-	<div class="col-xs-12">
-		<ul class ="list-unstyled list-inline col-xs-4 blabla">
-			<li id="mentions"> <a class="footerlink" href="#">Mentions légales</a>  | </li>
-			<li> <a class="footerlink" href="#">Plan du site</a>    |</li>
-			<li> <a class="footerlink" href="#">Nos partenaires</a></li>
-		</ul>
-	</div>
-	<div class="sous-footer"> </div>
-</footer>
 </div>
 
 <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
