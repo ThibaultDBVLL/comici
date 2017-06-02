@@ -25,7 +25,7 @@ body {
 }
 
 .navbar-default .navbar-nav>li>a {
-	color: #F9B200;
+	color: red;
 	font-weight: bold;
 }
 
@@ -84,4 +84,94 @@ form {
 #titre-initiatives,
 #titre-patrimoine{
 	padding-top: 10%;
+}
+
+.footer{
+	width: 100%;
+	background-color: rgb(228, 228, 228);
+}
+
+/*sidebar*/
+
+@import "compass/css3";
+
+
+@import url('https://getbootstrap.com/dist/css/bootstrap.css');
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0-rc2/css/bootstrap-glyphicons.css");
+
+
+
+
+nav.sidebar-menu-collapsed {
+  width: 0px; }
+nav.sidebar-menu-expanded {
+  width: 16px; }
+nav.sidebar {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  background: none repeat scroll 0 0 rgb(201, 194, 194);
+  color: white;
+  padding: 20px 10px; }
+  nav.sidebar a#justify-icon {
+    outline: 0;
+    color: white;
+    font-size: 24px;
+    font-style: normal; }
+  nav.sidebar a#logout-icon {
+    outline: 0;
+    color: white;
+    font-size: 24px;
+    font-style: normal;
+    position: absolute;
+    bottom: 10px;
+    left: 1px; }
+  nav.sidebar ul {
+    margin: 0;
+    padding: 0;
+    margin-top: 60px; }
+    nav.sidebar ul li {
+      margin: 0;
+      padding: 0;
+      margin-top: 20px;
+      list-style-type: none; }
+      nav.sidebar ul li a.expandable {
+        outline: 0;
+        color: red;
+        text-decoration: none;
+        font-size: 20px; }
+        nav.sidebar ul li a.expandable:hover {
+          color: #bbbbbb; }
+        nav.sidebar ul li a.expandable span.expanded-element {
+          margin-left: 2px;
+          display: none;
+          font-size: 11px;
+          position: relative;
+          bottom: 2px; }
+      nav.sidebar ul li.active {
+        background: none repeat scroll 0 0 black;
+        border-radius: 4px;
+        text-align: center;
+        margin-left: -4px;
+        padding: 4px; }
+        nav.sidebar ul li.active a.expandable {
+          color: red !important; }
+          nav.sidebar ul li.active a.expandable:hover {
+            color: white !important; }
+nav{
+	z-index: 100;
+}
+.empty{
+	height: 40%;
+}
+
+#titre-carte,
+#carte{
+	display: flex;
+	justify-content: center;
+}
+
+.sidebar{
+	height: 0px !important;
+	background-color: rgba(135, 135, 135, 0) !important;
 }
