@@ -22,6 +22,10 @@ body {
 	display : flex;
 	justify-content: center;
 	flex-wrap: no-wrap;
+	background-color: rgba(153, 153, 153, 0) !important;
+	border: rgba(143, 92, 67, 0) !important;
+	font-size: 150%;
+	font-style: underline;
 }
 
 .navbar-default .navbar-nav>li>a {
