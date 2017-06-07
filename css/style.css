@@ -178,17 +178,12 @@ nav{
 	background-color: rgba(135, 135, 135, 0) !important;
 }
 
-.right{
-	position: fixed;
-}
-
 #login{
 	background-color: rgb(221, 75, 57);
 	margin: 2px 5px 2em 0:
 	display: flex;
 	flex-basis: 5px;
   color: white;
-  font-size: 150%;
 }
 
 #axeculture{

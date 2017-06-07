@@ -17,13 +17,9 @@
 			<li class="dropdown-toggle" id="axeculture"><a href="#titre-culture">Culture/Evènements</a></li>
 			<li class="dropdown-toggle" id="axeinitiatives"><a href="#titre-initiatives">Initiatives locales</a></li>
 			<li class="dropdown-toggle" id="axepatrimoine"><a href="#titre-patrimoine">Patrimoine</a></li>
+			<li class="dropdown-toggle" id="login"><a href="#titre-patrimoine">Connexion</a></li>
 		</ul>
 	</div>
-	<ul class="flexcontainer">
-		<li>
-			<a href="#">[Connexion]</a>
-		</li>
-	</ul>
 
 	<!-- sidebar gauche-->
 
