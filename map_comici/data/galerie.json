@@ -1,0 +1,52 @@
+{
+    "patrimoine": [{
+        "id": "0",
+        "marqueur": "A",
+        "titre": "Titre patrimoine",
+        "geoloc": {
+            "lat": 43.105065,
+            "lng": 0.719648
+        },
+        "videos": [{
+            "nbr": "0",
+            "url": "iRYlgZRj_qA",
+            "credit": " Credit video"
+        }
+    ],
+        "texte": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam optio, voluptatibus et ab fuga cupiditate eos officia facilis in explicabo sit tempora voluptas rem perferendis similique nobis ipsum accusantium iusto?"
+    }
+],
+    "initiative": [{
+        "id": "0",
+        "marqueur": "1",
+        "titre": "Titre initiative",
+        "geoloc": {
+            "lat": 43.106953,
+            "lng": 0.723588
+        },
+        "videos": [{
+            "nbr": "0",
+            "url": "0xCE0Q5du1A",
+            "credit": "credit video"
+        }],
+        "texte": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus beatae mollitia totam numquam incidunt rerum dignissimos dolorem similique esse odio facere voluptatem veniam, excepturi, consequuntur vero? Minus incidunt, perspiciatis officia."
+    }
+],
+    "culture": [{
+        "id": "0",
+        "marqueur": "1",
+        "titre": "Titre culture",
+        "geoloc": {
+            "lat": 43.105000,
+            "lng": 0.730200
+        },
+        "videos": [{
+            "nbr": "0",
+            "url": "jQxEiB1OxD8",
+            "credit": "credit video"
+        }],
+        "texte": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, eaque placeat? A debitis accusamus quidem, repudiandae ab molestias at voluptatum magni, dolores culpa rem ex, dolor voluptates magnam placeat in."
+    }
+]
+
+}

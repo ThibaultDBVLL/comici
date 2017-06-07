@@ -1,0 +1,23 @@
+  #cdf_map {
+  	height: 690px;
+  	width: 680px;
+  	margin-left: 3%;
+  }
+
+  .ug-lightbox .ug-textpanel-title {
+  	font-weight: 700;
+  	font-size: 20px;
+  }
+
+  .center {
+  	margin-left: -0.1em;
+  }
+
+  .ui-dialog {
+  	z-index: 1000 !important;
+  	box-shadow: #000 5px 5px 5px;
+  }
+
+  .ui-front {
+  	z-index: 1000 !important;
+  }
