@@ -39,7 +39,7 @@ session_start();
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#">CONTENU</a></li>
+            <li class="active"><a href="../contenu.php">CONTENU</a></li>
             <li><a href="#">DISING</a></li>
             <li><a href="#">SOCIAL</a></li>
             <li><a href="#">WEBSERVICES</a></li>
