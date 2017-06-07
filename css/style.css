@@ -36,7 +36,7 @@ nav.sidebar {
       list-style-type: none; }
       nav.sidebar ul li a.expandable {
         outline: 0;
-        color: red;
+        color: #337ab7;
         text-decoration: none;
         font-size: 20px; }
         nav.sidebar ul li a.expandable:hover {
@@ -54,7 +54,7 @@ nav.sidebar {
         margin-left: -4px;
         padding: 4px; }
         nav.sidebar ul li.active a.expandable {
-          color: red !important; }
+          color: #337ab7; !important; }
           nav.sidebar ul li.active a.expandable:hover {
             color: white !important; }
 
