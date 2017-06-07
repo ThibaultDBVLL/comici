@@ -134,6 +134,7 @@ body {
 .content{
 	padding-left: 15%;
 	padding-right: 15%;
+  padding-bottom: 5%;
 }
 
 #titre-carte,
@@ -169,7 +170,7 @@ nav{
 
 #login{
 	background-color: rgb(221, 75, 57);
-	margin: 2px 5px 2em 0:
+	margin: 2px 5px 2em 0;
 	display: flex;
 	flex-basis: 5px;
   color: white;
