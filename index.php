@@ -179,9 +179,16 @@
 	</div>
 	<!-- fin footer -->
 	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+	<script type='text/javascript' src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+	<script type='text/javascript' src="http://rawgit.com/jasonday/jQuery-UI-Dialog-extended/master/jquery.dialogOptions.js"></script>
 	<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script type='text/javascript' src="https://unpkg.com/leaflet-responsive-popup@0.2.0/leaflet.responsive.popup.js"></script>
+	<script type='text/javascript' src="https://unpkg.com/leaflet-easybutton@2.0.0/src/easy-button.js"></script>
 	<script type='text/javascript' src="/map_comici/js/leaflet-beautify-marker-icon.js"></script>
 	<script type='text/javascript' src="../map_comici/js/leaflet-beautify-marker.js"></script>
+	<!-- Unite gallery -->
+	<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/unitegallery/1.7.40/js/unitegallery.min.js'></script>
+	<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/unitegallery/1.7.40/themes/tilesgrid/ug-theme-tilesgrid.min.js'></script>
 	<script type="text/javascript" src="js/app.js"></script>
 </body>
 </html>

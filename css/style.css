@@ -96,30 +96,20 @@ body {
 	font-weight: bold;
 }
 
-p {
-	margin: 5%;
-	font-size: 17px;
-	color: black;
-	color: green;
-	margin: 5%;
-	font-size: 22px;
-}
-
-
 .img-responsive{
 	margin:0px auto;
 	max-height:100%;
 }
 
 
-form {
+/*form {
 	margin: 0 auto;
 	width: 45px;
 	color: blue;
 	padding: 1em;
 	border: 1px solid #CCC;
 	border-radius: 1em;
-}
+}*/
 
 
 .empty{
@@ -201,7 +191,7 @@ background-color: rgb(0, 123, 182);
 	height: 10px;
 	display: flex;
 	flex-wrap: nowrap !important;
-  z-index: 999;
+  z-index: 1002;
 }
 
 .flexcontainer {
