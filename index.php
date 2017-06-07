@@ -31,7 +31,7 @@
 				</a>
 			</li>
 			<li>
-				<a class='expandable' href='/map_comici/map.php' title='Carte'>
+				<a class='expandable' href='#carte' title='Carte'>
 					<span class='glyphicon glyphicon-map-marker'></span>
 				</a>
 			</li>
