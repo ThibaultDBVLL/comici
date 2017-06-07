@@ -18,7 +18,7 @@
 			<li class="dropdown-toggle"><a href="#titre-culture">Culture/Evènements</a></li>
 			<li class="dropdown-toggle"><a href="#titre-initiatives">Initiatives locales</a></li>
 			<li class="dropdown-toggle"><a href="#titre-patrimoine">Patrimoine</a></li>
-			<li class="dropdown-toggle"><a href="#">Login</a></li>
+			<li class="dropdown-toggle"><a href="admin/login.php">Login</a></li>
 		</ul>
 	</div>
 
